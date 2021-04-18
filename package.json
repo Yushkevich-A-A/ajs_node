@@ -1,0 +1,23 @@
+{
+  "name": "ajs_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yushkevich-A-A/ajs_node.git"
+  },
+  "author": "Yushkevich-A-A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yushkevich-A-A/ajs_node/issues"
+  },
+  "homepage": "https://github.com/Yushkevich-A-A/ajs_node#readme",
+  "dependencies": {
+    "@yushkevich-a-a/ajs": "^1.0.0"
+  }
+}
